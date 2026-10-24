@@ -1,0 +1,8 @@
+{
+  "packages": [
+    { "name": "guzzlehttp/guzzle", "version": "7.8.1" },
+    { "name": "guzzlehttp/psr7", "version": "2.6.2" },
+    { "name": "guzzlehttp/promises", "version": "2.0.2" }
+  ],
+  "packages-dev": []
+}
